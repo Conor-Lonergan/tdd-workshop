@@ -4,7 +4,7 @@ TDD Workshop
 
 # Clone the repo
 
-# Install postgres locally
+# Install gems
 ```
-sudo apt install postgresql-contrib libpq-dev
+bundle install
 ```
